@@ -1,7 +1,7 @@
 h1 -> Element
-class -> Atribute
+Class -> Atribute
 Padding -> property
-
+!important -> forces override
 
 
 border-top-radius = adds border to a especific side
