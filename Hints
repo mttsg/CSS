@@ -10,3 +10,16 @@ background-size:cover;
 This entire block of code lines can be enshortened like this:
 ex: 
 background: url('') no-repeat top cover/center;
+
+
+PADDING (clockwise!)
+
+padding : top right bottom left;
+or
+padding: top/bottom left/right;
+
+MARGIN (clockwise!)
+
+margin : top right bottom left;
+or
+margin: top/bottom left/right'
