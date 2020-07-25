@@ -1,4 +1,4 @@
-border-top-radiu = adds border to a especific side
+border-top-radius = adds border to a especific side
 background-atatchment: fixed
 
 background-img:url('...');
