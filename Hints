@@ -23,3 +23,10 @@ MARGIN (clockwise!)
 margin : top right bottom left;
 or
 margin: top/bottom left/right'
+
+- Removes the information from the screen (usefull for responsive websites whose mobile screen shouldn't have a especific content)
+
+display: none;
+
+- Removes the information from the screen but a empty space is left on the page
+visibility: hidden;
