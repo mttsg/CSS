@@ -3,7 +3,7 @@ background-atatchment: fixed
 
 background-img:url('...');
 background-repeat:no-repeat;              other options background-repeat:repeatx; background-repeat:repeaty;
-background-position:top;                  other options background-position: 100px 0px; background-position:0px 100px; background-position: -100px; background-position:top/center/bottom
+background-position:center top;                  other options background-position: 100px 0px; background-position:0px 100px; background-position: -100px; background-position:top/center/bottom
 background-size:cover;
 
 
