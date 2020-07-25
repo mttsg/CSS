@@ -2,11 +2,11 @@ border-top-radius = adds border to a especific side
 background-atatchment: fixed
 
 background-img:url('...');
-background-repeat:no-repeat;
-background-position:top;
+background-repeat:no-repeat;              other options background-repeat:repeatx; background-repeat:repeaty;
+background-position:top;                  other options background-position: 100px 0px; background-position:0px 100px; background-position: -100px; background-position:top/center/bottom
 background-size:cover;
 
 
-this entire block of code lines can be enshortened like this:
+This entire block of code lines can be enshortened like this:
 ex: 
 background: url('') no-repeat top cover/center;
