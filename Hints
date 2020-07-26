@@ -3,6 +3,8 @@ Class -> Atribute
 Padding -> property
 !important -> forces override
 
+url('./ -> inside th current folder
+url('../ -> outside of the current folder
 
 border-top-radius = adds border to a especific side
 background-atatchment: fixed
